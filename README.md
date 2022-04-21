@@ -242,7 +242,7 @@ HTTPS-Server支持 `gzip`和`br`两种压缩方式，默认使用br压缩数据
 
 - [Asio](https://think-async.com/Asio/)
 
-- [Fmtlib](fmtlib/fmt: A modern formatting library (github.com)
+- [Fmtlib](https://github.com/fmtlib/fmt)
 
 - [Brotli](https://brotli.org)
 
