@@ -45,7 +45,7 @@ struct Request
     std::string remote_addr;
 
     // 表单数据
-    using MultipartFormDataMap = std::map<std::string, MultipartFormData>;
+    using MultipartFormDataMap = std::multimap<std::string, MultipartFormData>;
     MultipartFormDataMap files;
 
     // 范围请求
